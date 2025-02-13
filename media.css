@@ -1,0 +1,44 @@
+@media screen and (max-width: 770px) {
+    .banner-video {
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen and (max-width: 984px) {
+    .benefits{
+        top: 185px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .lists li a {
+        font-size: 14px;
+    }
+    .lists li a {
+        display: none;
+    }
+    .image {
+        display: block;
+    }
+    button {
+        position: fixed;
+        bottom: 10px; 
+        padding: 10px;
+        left: 10px;
+        background-color: rgb(215, 46, 204) !important;
+        width: 90%;
+    }
+    .banner-video {
+        width: 100%;
+        height: auto;
+    }
+    .heading::after{
+        width: 56px;
+        margin-top: 38px;
+    }.heading::before{
+        width: 33px;
+        margin-top: 48px;
+    }
+}
+
+
