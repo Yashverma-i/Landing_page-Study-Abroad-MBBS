@@ -149,12 +149,12 @@ button:hover {
 /* -------------------------  countries -----------  */
 .countries{
     background-color: #f7b980;
-    height: 76vh;
     box-sizing: border-box;
     margin-left: -5%;  
     margin-right: -5%;
     padding-left: 5%;
     padding-top: 20px;
+    padding-bottom: 45px;
 }
 .crousel{
     overflow-x: auto;
